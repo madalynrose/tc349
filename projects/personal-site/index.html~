@@ -6,7 +6,7 @@
 		<link rel="stylesheet" href="css/style.css" type="text" media="screen">
 	</head>
 	<body>
-		<center><img src="images/self2.jpg"/></center>
+		<img src="images/self2.jpg"/>
 		<h1>Madalyn Parker</h1>
 		<p>Computer Science<br/>
 		Lyman Briggs College, Michigan State University<br/>
@@ -14,5 +14,6 @@
 		
 		<p><a href="about.html" >About Madalyn</a></p>
 		<p><a href="coursework.html">Coursework</a></p>
+		<p><a href="hobbies.html" >Hobbies</a></p>	
 	</body>
 </html>

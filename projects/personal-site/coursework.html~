@@ -3,6 +3,7 @@
 	<head>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 		<title>Madalyn Parker</title>
+		<link rel="stylesheet" href="css/style.css" type="text" media="screen">
 	</head>
 	<body>
 		<img src="images/self.jpg"/><br/>
@@ -32,8 +33,10 @@
 			<li>Limited experience with Java, C, Visual Basic, Assembly, Ruby</li>
 			<li>Experience using Eclipse, SVN, GIT, Mac OSX, Windows XP/7, Unix/Linux, FTP, Terminal, Visual Studio, IDLE</li>
 		</ul>
+		
 		<p><a href="index.html" >Back To Home Page</a></p>
 		<p><a href="about.html" >About Madalyn</a></p>
+		<p><a href="hobbies.html" >Hobbies</a></p>	
 			
 	</body>
 </html>

@@ -1,0 +1,9 @@
+	As far as university websites go, MSU's Homepage is pretty standard. It isn't too bogged down with text, 
+	shows a decent amount of color, and is pretty dynamic instead of flat. The changing picture near the top of the page
+	gives the page dimension and helps add variety to the page. 
+	
+	The menu across the top isn't too cluttered, and presents the information most likely to be seeked by the site's 
+	visitors. If the desired information is outside the realm of the menu options, a helpful search option is available.
+	
+	The page appears more boring and flat near the bottom. Where the top is varied and interesting, the bottom of the
+	page is bland and static.

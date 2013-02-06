@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Madalyn Parker</title>
+		<link rel="stylesheet" href="css/style.css" type="text" media="screen">
+	</head>
+	<body>
+		<h1>Projects</h1>
+		<p>	CSE 435 Project Page: <a href="http://www.cse.msu.edu/~cse435/Projects/F2012/LMS-2/web/">Lane Management System</a></p>
+							
+		<p>Nancy J Engardio <a href="http://www.njengardio.com">Artist Website</a>
+		<img src="images/nje.jpg" alt="Nancy Engardio Website" ><br/></p>				
+
+		
+		<p><a href="index.html" >Back To Home Page</a></p>
+		<p><a href="about.html" >About Madalyn</a></p>	
+		<p><a href="coursework.html" >Coursework</a></p>	
+
+	</body>
+</html>

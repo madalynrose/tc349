@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Madalyn Parker</title>
+		<link rel="stylesheet" href="css/style.css" type="text" media="screen">
+	</head>
+	<body>
+		<center><img src="images/self2.jpg"/></center>
+		<h1>Madalyn Parker</h1>
+		<p>Computer Science<br/>
+		Lyman Briggs College, Michigan State University<br/>
+		Graduation Date: December 2013</p>
+		
+		<p><a href="about.html" >About Madalyn</a></p>
+		<p><a href="coursework.html">Coursework</a></p>
+	</body>
+</html>

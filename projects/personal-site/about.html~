@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Madalyn Parker</title>
+		<link rel="stylesheet" href="css/style.css" type="text" media="screen">
+	</head>
+	<body>
+		<h1>About Madalyn</h1>
+		<p>Madalyn Parker is a fourth-year student pursuing a Bachelor of Science degree in Computer Science through Lyman Briggs at Michigan State University. Her expected graduation date is December of 2013.</p> 
+		<p>She is now working as a software developer intern for <a href="http://www.techsmith.com/">TechSmith</a> on the Camtasia Relay team. Here, she works with C# and the ASP/.Net framework to further develop the product, adding features and eliminating bugs through the Agile process model. Also, this internship has given her opportunities to work on an application for the Windows Phone 7. She has worked part-time as a web programmer at <a href="http://www.matrix.msu.edu/">MATRIX</a> through Michigan State University, designing and implementing web pages focusing on managing, displaying, and analyzing large amounts of data using PHP, MySQL, and jQuery. She is in charge of K-12 outreach for the Michigan State University group, <a href="http://www.cse.msu.edu/msuwic/">Women in Computing</a>. This group has helped her to develop networking skills, and has allowed her to expose younger students to the field of computer science. </p>
+		
+		<h2>
+			<p>Her hobbies include: </p>
+			<p>Taking care of her two rabbits (Tobias and Bellatrix)<br/>
+				<img src="images/bunnies.jpg" alt="Bella and Toby" ></p>
+			<p>Cooking new meals
+				<img src="images/food.jpg" alt="Risotto and tofu" ></p>
+			<p>Going thrift shopping
+				<img src="images/clothes.jpg" alt="'New' Clothes" ></p>
+				
+					
+		</h2>		
+		
+		
+		<p><a href="index.html" >Back To Home Page</a></p>
+		<p><a href="coursework.html" >Coursework</a></p>	
+	
+	</body>
+</html>

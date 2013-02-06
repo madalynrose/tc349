@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Madalyn Parker</title>
+	</head>
+	<body>
+		<img src="images/self.jpg"/><br/>
+		<h1>Relevant Coursework</h1>
+		<ul>	
+			Past: 
+			<li>Software Design</li>
+			<li>Operating Systems</li>
+			<li>Computer Architecture</li>
+			<li>Algorithms and Data Structures</li>
+		</ul>
+		<ul>
+			Fall 2012: 
+			<li>Software Engineering</li>
+			<li>Computer Networks</li>
+			<li>Server-Side Web Development (Ruby on Rails)</li>
+		</ul>
+		<ul>
+			Spring 2013: 
+			<li>Database-backed Web Design</li>
+			<li>Mobile App Development (Android)</li>
+			<li>Client-Side Web Development</li>
+		</ul>
+		<h1>Skills</h1>
+		<ul>
+			<li>Experience using C++, PHP, Python, MySQL, SQL, jQuery, CSS, HTML</li>
+			<li>Limited experience with Java, C, Visual Basic, Assembly, Ruby</li>
+			<li>Experience using Eclipse, SVN, GIT, Mac OSX, Windows XP/7, Unix/Linux, FTP, Terminal, Visual Studio, IDLE</li>
+		</ul>
+		<p><a href="index.html" >Back To Home Page</a></p>
+		<p><a href="about.html" >About Madalyn</a></p>
+			
+	</body>
+</html>

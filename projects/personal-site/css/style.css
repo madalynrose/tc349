@@ -1,5 +1,6 @@
 html 
 {
+	background: #5dbcd2;
 	font-family: Geneva, Tahoma, Verdana, sans-serif;
 }
 
@@ -7,11 +8,40 @@ img
 {
 	margin:auto;
 	width:300px;
+	border:3px solid black;
 	text-align:center;
 }
 
 a
 {
-	color:#A0A0A0;
+	color:#fff;
 	text-decoration:none;
+}
+
+#content{
+	margin: auto;
+	padding: 5px;
+	width: 600px;
+	background: #ccc;	
+}
+
+h1{
+	margin:0;
+	background: #aaa;
+}
+
+h2{
+	text-decoration: underline;
+}
+
+#nav ul{
+	list-style-type: none;	
+}
+
+#nav li{
+	margin:auto;
+	background:black;
+	float:left;
+	margin:3px;
+	padding:3px;
 }

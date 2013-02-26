@@ -1,13 +1,13 @@
 html 
 {
-	background: #5dbcd2;
+	background:#64aad0;
 	font-family: Geneva, Tahoma, Verdana, sans-serif;
 }
 
 img
 {
-	margin:auto;
-	width:300px;
+	margin:5px;
+	width:250px;
 	border:3px solid black;
 	text-align:center;
 }
@@ -19,29 +19,71 @@ a
 }
 
 #content{
-	margin: auto;
+	margin: 0 auto;
 	padding: 5px;
-	width: 600px;
-	background: #ccc;	
+	width: 800px;
+	background: url("../images/cardboard.png");	
+}
+
+header, footer{
+	background: #034569;
+	margin:2px;
+	padding:2px;
 }
 
 h1{
 	margin:0;
-	background: #aaa;
+	text-align:center;
 }
 
 h2{
 	text-decoration: underline;
+	text-align:center;
+}
+
+#nav,footer{
+	clear:both;
+}
+
+#nav{
+	list-style: none;
+	margin:0;
+	padding:0;
 }
 
 #nav ul{
-	list-style-type: none;	
+	list-style: none;
+	margin:0;
+	padding:0;	
 }
 
 #nav li{
-	margin:auto;
-	background:black;
+	list-style: none;
+	margin:0;
+	padding:0;
+	background:white;
 	float:left;
 	margin:3px;
 	padding:3px;
+}
+
+#nav a{
+	color:black;
+}
+
+section,aside{
+	height:500px;
+	overflow:scroll;
+	background:#ccc;
+	margin:3px;
+	padding:3px;
+	float:left;
+}
+
+section{
+	width:488px;
+
+}
+aside{
+	width:288px;
 }

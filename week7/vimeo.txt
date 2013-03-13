@@ -1,0 +1,3 @@
+Honestly, I'm a little biased about Vimeo. I quite enjoy the user experience and think it is, overall, a beautiful site. The front page is eye-catching but not overly distracting. The videos displayed here are almost always captivating. Further down the page, Vimeo informs you how it could be of use to you. This is a nice touch, and the simple phrase reasons with image links looks clean.
+
+Each of the pages it links to are simple and clean. I especially like the slim rainbow banner across the top. Very simple and classy, yet fun at the same time. I suspect twitter bootstrap for the styling. The site is intuitive and easy to navigate (always a plus). The menu across the top is a little clunky, with its inconsistent expanding and loads of links

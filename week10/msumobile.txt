@@ -1,0 +1,3 @@
+First impressions: I wish I knew about this earlier! This looks gorgeous right away and seems like it makes navigating MSU's site on the go way easier. The layout is simple and clean, leaving only icons on the main page and minimizing the content on the others. The icons themselves are discriptive yet minimal with little text below them. I think this is perfect for a mobile app. This is important as screen real estate is small. Everything is easy to find, as the app is relatively intuitive. The map feature is absolutely stellar. I have always had a fondness for MSU's interactive campus map on the web but this blows that right out of the park. 
+
+Unfortunately, performance is not top-notch. It took forever to load each page, even over WIFI, which usually speeds things up.

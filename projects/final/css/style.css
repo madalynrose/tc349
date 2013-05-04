@@ -1,0 +1,136 @@
+html{
+	background:url("../images/skin_side_up.png");
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+header{
+	width:100%;
+	height:150px;
+}
+
+header h1{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;	
+	text-align:center;
+	font-size:100px;
+	color:#71919e;
+}
+
+.container{
+	margin-left:auto;
+	margin-right:auto;
+	color:#303133;
+	font-size: 15px;
+}
+
+.container h1{
+	margin-left:6px;
+	margin-top:6px;
+	font-size: 50px;
+	color:#1c2038;
+	font-family: "Brush Script MT", cursive;
+}
+
+#content{
+ 	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:30px;
+	background:#d5d7db;
+	box-shadow: 0 0 20px #020202;
+	width:800px;
+	min-height:300px;
+	overflow:auto;
+}
+
+article{
+	clear:both;
+	margin-bottom:30px;
+	width:100%;
+	margin-left:10px;
+}
+
+article p{
+	margin: 10px;
+}
+article img{
+	width:150px;
+	float:right;
+	margin:3px;
+}
+
+.course{
+	width:190px;
+	float:left;
+	border: 1px groove #020202;
+	margin: 2px;
+}
+
+.course h3{
+	clear:both;
+	text-align:center;
+	margin-left: 2px;
+	margin-right: 2px;
+	font-size: 20px;
+}
+
+.course a{
+	text-decoration: none;
+	color:#71919e;
+}
+
+#menu{
+	margin-left:auto;
+	margin-right:auto;
+	width:675px;
+	height:166px;
+}
+
+#menu a{
+	margin-left:10px;
+	margin-right:10px;
+	margin-bottom:6px;
+	margin-top:20px;
+}
+#menu #home{
+	display:inline-block;
+	width:140px;
+	height:140px;
+	background:url('../images/homeimg.png');
+	float:left;
+}
+
+#menu #home:hover{
+	background:url('../images/homeselected.png');
+}
+#menu #school{
+	display:inline-block;
+	width:140px;
+	height:140px;
+	background:url('../images/schoolimg.png');
+	float:left;
+}
+
+#menu #school:hover{
+	background:url('../images/schoolselected.png');
+}
+#menu #work{
+	display:inline-block;
+	width:140px;
+	height:140px;
+	background:url('../images/workimg.png');
+	float:left;
+}
+
+#menu #work:hover{
+	background:url('../images/workselected.png');
+}
+#menu #play{
+	display:inline-block;
+	width:140px;
+	height:140px;
+	background:url('../images/playimg.png');
+	float:left;
+}
+
+#menu #play:hover{
+	background:url('../images/playselected.png');
+}
